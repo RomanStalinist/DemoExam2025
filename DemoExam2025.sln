@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35323.107
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoExam2024", "DemoExam2024\DemoExam2024.csproj", "{8A1FD399-C581-4264-9AB1-AE323EFDCA34}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoExam2025", "DemoExam2025\DemoExam2025.csproj", "{8A1FD399-C581-4264-9AB1-AE323EFDCA34}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
